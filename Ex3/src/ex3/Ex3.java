@@ -3,18 +3,20 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ex
+package ex3;
+import java.util.Scanner;
 /**
  *
  * @author admin
  */
-public class Ex03 {
+public class Ex3 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Scanner sc = new Scanner(System.in);
     }
     
 }

@@ -10,5 +10,4 @@ package thu;
  * @author admin
  */
 class Scaner {
-    
 }
