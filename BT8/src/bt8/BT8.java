@@ -21,6 +21,7 @@ public class BT8 {
         int n;
         System.out.println("nhap cac kich thuoc cua mang ");
 n = sc.nextInt();
+        
         int a[][] = new int[n][n];
 
         
